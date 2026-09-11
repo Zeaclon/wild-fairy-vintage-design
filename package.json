@@ -9,12 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "typescript": "latest",
-    "vite": "latest",
+    "framer-motion": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "framer-motion": "latest"
+    "@vitejs/plugin-react": "latest",
+    "typescript": "latest",
+    "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
 }
